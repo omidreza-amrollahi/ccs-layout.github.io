@@ -1,3 +1,3 @@
-# css-layout.github.io
+# css-layout
 
 This is a website to practice css layouts
